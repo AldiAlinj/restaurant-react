@@ -35,7 +35,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="footer__copyright">
-      <p className="p__opensans">2022 Aldi Alinj. Të gjitha të drejtat e rezervuara</p>
+      <p className="p__opensans">2022 All rights reserved</p>
     </div>
   </div>
 );
